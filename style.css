@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(46, 112, 87);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+
+#text {
+    background-color: rgb(46, 112, 87);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#game {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: lightgray;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#controls {
+    border: 1px black solid;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#stats {
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#monsterStats {
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: rgb(111, 28, 28);
+    border-radius: 5px;
+}
+
+.stat {
+    padding-right: 10px;
+}
